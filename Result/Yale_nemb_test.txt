@@ -1,0 +1,180 @@
+1
+IsoMap: 0.45302924685859525	cost_time: 0s
+IsoMap: 0.4452302063309468	cost_time: 0s
+IsoMap: 0.46558107898648776	cost_time: 0s
+
+
+2
+IsoMap: 0.45054472526327527	cost_time: 0s
+IsoMap: 0.4567894657633542	cost_time: 0s
+IsoMap: 0.45549962509283454	cost_time: 0s
+
+
+3
+IsoMap: 0.4411707687038878	cost_time: 0s
+IsoMap: 0.43735907562304094	cost_time: 0s
+IsoMap: 0.45797498653588686	cost_time: 0s
+
+
+4
+IsoMap: 0.45434298430512426	cost_time: 0s
+IsoMap: 0.45713343141195145	cost_time: 0s
+IsoMap: 0.4348214285035057	cost_time: 0s
+
+
+5
+IsoMap: 0.4919452897097491	cost_time: 0s
+IsoMap: 0.49409716776573487	cost_time: 0s
+IsoMap: 0.4740495876833877	cost_time: 0s
+
+
+6
+IsoMap: 0.4927043199330152	cost_time: 0s
+IsoMap: 0.4917430141743308	cost_time: 0s
+IsoMap: 0.5010639917834508	cost_time: 0s
+
+
+7
+IsoMap: 0.5000984526540612	cost_time: 0s
+IsoMap: 0.47665135590096064	cost_time: 0s
+IsoMap: 0.5064819866120662	cost_time: 0s
+
+
+8
+IsoMap: 0.49891838065750665	cost_time: 0s
+IsoMap: 0.5207291389389309	cost_time: 0s
+IsoMap: 0.5163848543985422	cost_time: 0s
+
+
+9
+IsoMap: 0.4926550620347145	cost_time: 0s
+IsoMap: 0.4912409359402144	cost_time: 0s
+IsoMap: 0.4977820236256982	cost_time: 0s
+
+
+10
+IsoMap: 0.5017420203386161	cost_time: 0s
+IsoMap: 0.5011373523175154	cost_time: 0s
+IsoMap: 0.48836483212364296	cost_time: 0s
+
+
+11
+IsoMap: 0.48836363728736726	cost_time: 0s
+IsoMap: 0.5167974599951096	cost_time: 0s
+IsoMap: 0.4955511563699691	cost_time: 0s
+
+
+12
+IsoMap: 0.48598925081859085	cost_time: 0s
+IsoMap: 0.5037551731122104	cost_time: 0s
+IsoMap: 0.4903225070898491	cost_time: 0s
+
+
+13
+IsoMap: 0.5090456401970381	cost_time: 0s
+IsoMap: 0.5027264171646822	cost_time: 0s
+IsoMap: 0.5044450782046948	cost_time: 0s
+
+
+14
+IsoMap: 0.5118229151744672	cost_time: 0s
+IsoMap: 0.5182686674814495	cost_time: 0s
+IsoMap: 0.5099670973899514	cost_time: 0s
+
+
+15
+IsoMap: 0.49778060374805433	cost_time: 0s
+IsoMap: 0.49506125576458376	cost_time: 0s
+IsoMap: 0.5098087604436675	cost_time: 0s
+
+
+16
+IsoMap: 0.4852001831580312	cost_time: 0s
+IsoMap: 0.49392825376508886	cost_time: 0s
+IsoMap: 0.4845375354534845	cost_time: 0s
+
+
+17
+IsoMap: 0.4742233680531989	cost_time: 0s
+IsoMap: 0.4891048294130617	cost_time: 0s
+IsoMap: 0.4984293217548868	cost_time: 0s
+
+
+18
+IsoMap: 0.48455607589378874	cost_time: 0s
+IsoMap: 0.4934259385459579	cost_time: 0s
+IsoMap: 0.4902001873749309	cost_time: 0s
+
+
+19
+IsoMap: 0.5057470961784908	cost_time: 0s
+IsoMap: 0.49686821730471964	cost_time: 0s
+IsoMap: 0.47634911498490684	cost_time: 0s
+
+
+20
+IsoMap: 0.5024132867906879	cost_time: 0s
+IsoMap: 0.48976277179258165	cost_time: 0s
+IsoMap: 0.4846787182656185	cost_time: 0s
+
+
+21
+IsoMap: 0.4948668571026813	cost_time: 0s
+IsoMap: 0.4957965567197025	cost_time: 0s
+IsoMap: 0.4961934207532281	cost_time: 0s
+
+
+22
+IsoMap: 0.5013729266133953	cost_time: 0s
+IsoMap: 0.5033507217274663	cost_time: 0s
+IsoMap: 0.4892468068394584	cost_time: 0s
+
+
+23
+IsoMap: 0.5072601282223554	cost_time: 0s
+IsoMap: 0.4943279355000743	cost_time: 0s
+IsoMap: 0.48450061999188615	cost_time: 0s
+
+
+24
+IsoMap: 0.5111739900041525	cost_time: 0s
+IsoMap: 0.5036079770245441	cost_time: 0s
+IsoMap: 0.49758694084874816	cost_time: 0s
+
+
+25
+IsoMap: 0.49040613356683993	cost_time: 0s
+IsoMap: 0.4893864609186594	cost_time: 0s
+IsoMap: 0.4963926903323251	cost_time: 0s
+
+
+26
+IsoMap: 0.5155874966877474	cost_time: 0s
+IsoMap: 0.49416022442619534	cost_time: 0s
+IsoMap: 0.5028788076077245	cost_time: 0s
+
+
+27
+IsoMap: 0.47569183322357866	cost_time: 0s
+IsoMap: 0.49682847434286553	cost_time: 0s
+IsoMap: 0.5127997726054399	cost_time: 0s
+
+
+28
+IsoMap: 0.5084483602295521	cost_time: 0s
+IsoMap: 0.5090711557479143	cost_time: 1s
+IsoMap: 0.49275876254403156	cost_time: 1s
+
+
+29
+IsoMap: 0.4867217064586984	cost_time: 1s
+IsoMap: 0.49031524271280896	cost_time: 1s
+IsoMap: 0.5092682730612377	cost_time: 0s
+
+
+30
+IsoMap: 0.5136637216385581	cost_time: 0s
+IsoMap: 0.5190893712960364	cost_time: 0s
+IsoMap: 0.5294312078807416	cost_time: 1s
+
+

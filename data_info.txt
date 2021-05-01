@@ -1,0 +1,26 @@
+data set: MNIST
+data shape: (10000, 784)
+n_clusters: 10([0 1 2 3 4 5 6 7 8 9])
+
+
+data set: lung_small
+data shape: (73, 325)
+label shape: (73, 1)
+n_clusters: 7([1 2 3 4 5 6 7])
+
+
+data set: warpPIE10P
+data shape: (210, 2420)
+label shape: (210, 1)
+n_clusters: 10([ 1  2  3  4  5  6  7  8  9 10])
+
+
+data set: Yale
+data shape: (165, 1024)
+label shape: (165, 1)
+n_clusters: 15([ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15])
+
+
+data set: digits
+data shape: (1797, 64)
+n_clusters: 10([0 1 2 3 4 5 6 7 8 9])

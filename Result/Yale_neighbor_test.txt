@@ -1,0 +1,120 @@
+1
+IsoMap: 0.5027028658544249	cost_time: 0s
+IsoMap: 0.5122067455535032	cost_time: 0s
+IsoMap: 0.5273166328597424	cost_time: 0s
+
+
+2
+IsoMap: 0.49817678301148866	cost_time: 0s
+IsoMap: 0.5285963880010355	cost_time: 0s
+IsoMap: 0.5039797582609069	cost_time: 0s
+
+
+3
+IsoMap: 0.4695627521538797	cost_time: 0s
+IsoMap: 0.46016064113065464	cost_time: 0s
+IsoMap: 0.48124247156243455	cost_time: 0s
+
+
+4
+IsoMap: 0.5318531298224806	cost_time: 0s
+IsoMap: 0.5202025330517706	cost_time: 0s
+IsoMap: 0.5378753250283794	cost_time: 0s
+
+
+5
+IsoMap: 0.5083866386181262	cost_time: 0s
+IsoMap: 0.4811351949373253	cost_time: 0s
+IsoMap: 0.5060890003441721	cost_time: 0s
+
+
+6
+IsoMap: 0.522175041505761	cost_time: 0s
+IsoMap: 0.528790640679841	cost_time: 0s
+IsoMap: 0.4903589596607638	cost_time: 0s
+
+
+7
+IsoMap: 0.5441990813118004	cost_time: 0s
+IsoMap: 0.5286671193518874	cost_time: 0s
+IsoMap: 0.5394108883444022	cost_time: 0s
+
+
+8
+IsoMap: 0.5318019093556599	cost_time: 0s
+IsoMap: 0.5124982377669399	cost_time: 0s
+IsoMap: 0.5253818033905512	cost_time: 0s
+
+
+9
+IsoMap: 0.5253319454253186	cost_time: 0s
+IsoMap: 0.5145278582147658	cost_time: 0s
+IsoMap: 0.5016886129648827	cost_time: 0s
+
+
+10
+IsoMap: 0.5603030374735539	cost_time: 0s
+IsoMap: 0.5511653030285869	cost_time: 0s
+IsoMap: 0.5427727060945603	cost_time: 0s
+
+
+11
+IsoMap: 0.5047443334301541	cost_time: 0s
+IsoMap: 0.4867754002703378	cost_time: 0s
+IsoMap: 0.5031643616118402	cost_time: 0s
+
+
+12
+IsoMap: 0.5002602351578715	cost_time: 0s
+IsoMap: 0.501167974856917	cost_time: 0s
+IsoMap: 0.5269790701028655	cost_time: 0s
+
+
+13
+IsoMap: 0.4761878037004135	cost_time: 0s
+IsoMap: 0.48028533595984185	cost_time: 0s
+IsoMap: 0.49075653422705035	cost_time: 0s
+
+
+14
+IsoMap: 0.5635868553936718	cost_time: 0s
+IsoMap: 0.5674485547936198	cost_time: 0s
+IsoMap: 0.5592930132070437	cost_time: 0s
+
+
+15
+IsoMap: 0.5049722077315557	cost_time: 0s
+IsoMap: 0.4729594311674507	cost_time: 0s
+IsoMap: 0.4763287866305273	cost_time: 0s
+
+
+16
+IsoMap: 0.460075957682572	cost_time: 0s
+IsoMap: 0.46652531772317624	cost_time: 0s
+IsoMap: 0.4683059387157061	cost_time: 0s
+
+
+17
+IsoMap: 0.5019646649086483	cost_time: 0s
+IsoMap: 0.4942204114655297	cost_time: 0s
+IsoMap: 0.4783840013058113	cost_time: 0s
+
+
+18
+IsoMap: 0.4739172665579832	cost_time: 0s
+IsoMap: 0.4475669776587286	cost_time: 0s
+IsoMap: 0.4517092114372064	cost_time: 0s
+
+
+19
+IsoMap: 0.4944524125459229	cost_time: 0s
+IsoMap: 0.5041017405065457	cost_time: 0s
+IsoMap: 0.5006225317586993	cost_time: 0s
+
+
+20
+IsoMap: 0.44015870953915776	cost_time: 0s
+IsoMap: 0.4622110968284094	cost_time: 0s
+IsoMap: 0.44314543952017105	cost_time: 0s
+
+

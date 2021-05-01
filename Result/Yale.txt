@@ -1,0 +1,195 @@
+10
+LE: 0.3934336387465849	cost_time: 0s
+LE: 0.3928555919425249	cost_time: 0s
+LE: 0.39704954034541257	cost_time: 0s
+IsoMap: 0.4355336451224323	cost_time: 0s
+IsoMap: 0.4392615307238069	cost_time: 0s
+IsoMap: 0.43284090920111745	cost_time: 0s
+lap_score: 0.36765145007098343	cost_time: 0s
+lap_score: 0.3723825071495153	cost_time: 0s
+lap_score: 0.3683870104285071	cost_time: 0s
+NDFS: 0.4247013755471616	cost_time: 2s
+
+
+20
+LE: 0.3988203453833593	cost_time: 0s
+LE: 0.3896743812050614	cost_time: 0s
+LE: 0.39576621504119097	cost_time: 0s
+IsoMap: 0.45291473056347903	cost_time: 0s
+IsoMap: 0.44134184849553737	cost_time: 0s
+IsoMap: 0.4435451958412376	cost_time: 0s
+lap_score: 0.4001223057866062	cost_time: 0s
+lap_score: 0.4147665836771325	cost_time: 0s
+lap_score: 0.41411404093155085	cost_time: 0s
+NDFS: 0.438637451620118	cost_time: 2s
+
+
+30
+LE: 0.44893957577687765	cost_time: 0s
+LE: 0.4519769133846707	cost_time: 0s
+LE: 0.438389218769465	cost_time: 0s
+IsoMap: 0.47119698986105385	cost_time: 0s
+IsoMap: 0.4604508453359381	cost_time: 0s
+IsoMap: 0.46727547339691045	cost_time: 0s
+lap_score: 0.46589320298376624	cost_time: 0s
+lap_score: 0.47005130324424654	cost_time: 0s
+lap_score: 0.47581635329461935	cost_time: 0s
+NDFS: 0.45955326986633305	cost_time: 2s
+
+
+40
+LE: 0.47577686395372976	cost_time: 0s
+LE: 0.47072731261409456	cost_time: 0s
+LE: 0.46745810589015135	cost_time: 0s
+IsoMap: 0.48270603502687637	cost_time: 0s
+IsoMap: 0.4902660689624093	cost_time: 0s
+IsoMap: 0.47929817915165496	cost_time: 0s
+lap_score: 0.48999338460020897	cost_time: 0s
+lap_score: 0.4861947757074946	cost_time: 0s
+lap_score: 0.48900590474902944	cost_time: 0s
+NDFS: 0.39585417337409246	cost_time: 2s
+
+
+50
+LE: 0.4564713672027497	cost_time: 0s
+LE: 0.4741868103638419	cost_time: 0s
+LE: 0.4677570921085004	cost_time: 0s
+IsoMap: 0.48595700247264606	cost_time: 0s
+IsoMap: 0.5075394310745098	cost_time: 0s
+IsoMap: 0.4938921857624006	cost_time: 0s
+lap_score: 0.5037977133838136	cost_time: 0s
+lap_score: 0.49332617161611025	cost_time: 0s
+lap_score: 0.4745210869319947	cost_time: 0s
+NDFS: 0.4494216069032729	cost_time: 2s
+
+
+60
+LE: 0.4654355702012326	cost_time: 0s
+LE: 0.48623331244648893	cost_time: 0s
+LE: 0.45800203351996255	cost_time: 0s
+IsoMap: 0.5157269741836124	cost_time: 0s
+IsoMap: 0.5150193164449094	cost_time: 0s
+IsoMap: 0.5029730979297224	cost_time: 0s
+lap_score: 0.4787771583535415	cost_time: 0s
+lap_score: 0.48752565579074963	cost_time: 0s
+lap_score: 0.48802036990486153	cost_time: 0s
+NDFS: 0.4837938622227669	cost_time: 2s
+
+
+70
+LE: 0.4783315445109137	cost_time: 0s
+LE: 0.49309245989884953	cost_time: 0s
+LE: 0.49756332239241885	cost_time: 0s
+IsoMap: 0.48612501047094125	cost_time: 0s
+IsoMap: 0.5042233517387354	cost_time: 0s
+IsoMap: 0.4944652762601708	cost_time: 0s
+lap_score: 0.4842715801672471	cost_time: 0s
+lap_score: 0.4833591166876713	cost_time: 0s
+lap_score: 0.47493185378871033	cost_time: 0s
+NDFS: 0.4332536713803119	cost_time: 2s
+
+
+80
+LE: 0.49037059007745976	cost_time: 0s
+LE: 0.4520099794393902	cost_time: 0s
+LE: 0.48132554486636414	cost_time: 0s
+IsoMap: 0.4904903637046635	cost_time: 0s
+IsoMap: 0.5217118123831657	cost_time: 0s
+IsoMap: 0.4940511871513135	cost_time: 0s
+lap_score: 0.490225559910132	cost_time: 0s
+lap_score: 0.4798870786878293	cost_time: 0s
+lap_score: 0.4839749824317721	cost_time: 0s
+NDFS: 0.40287773564391394	cost_time: 2s
+
+
+90
+LE: 0.49105543173924915	cost_time: 0s
+LE: 0.5047802531076901	cost_time: 0s
+LE: 0.5070726219310976	cost_time: 0s
+IsoMap: 0.5111245002460969	cost_time: 0s
+IsoMap: 0.4992659018918781	cost_time: 0s
+IsoMap: 0.5126807088484954	cost_time: 0s
+lap_score: 0.48354374969140945	cost_time: 0s
+lap_score: 0.4965480849418514	cost_time: 0s
+lap_score: 0.47947235134196936	cost_time: 0s
+NDFS: 0.4420752790638235	cost_time: 2s
+
+
+100
+LE: 0.5028971901878412	cost_time: 0s
+LE: 0.499297377893375	cost_time: 0s
+LE: 0.5031059889840009	cost_time: 0s
+IsoMap: 0.4943799816178517	cost_time: 0s
+IsoMap: 0.5076608585485082	cost_time: 0s
+IsoMap: 0.5114704090150833	cost_time: 0s
+lap_score: 0.48450877186053987	cost_time: 0s
+lap_score: 0.49320968860358183	cost_time: 0s
+lap_score: 0.494232544974235	cost_time: 0s
+NDFS: 0.41147320888317046	cost_time: 2s
+
+
+120
+LE: 0.5244905811353915	cost_time: 0s
+LE: 0.5093759131472319	cost_time: 0s
+LE: 0.5221991225895521	cost_time: 0s
+IsoMap: 0.49796257690647694	cost_time: 0s
+IsoMap: 0.5360712174702774	cost_time: 0s
+IsoMap: 0.5072880292054299	cost_time: 0s
+lap_score: 0.48639629445925425	cost_time: 0s
+lap_score: 0.4769747722828722	cost_time: 0s
+lap_score: 0.4814483356873053	cost_time: 0s
+NDFS: 0.46473515456752634	cost_time: 2s
+
+
+140
+LE: 0.511533517701155	cost_time: 0s
+LE: 0.4964689392140741	cost_time: 0s
+LE: 0.517163209446562	cost_time: 0s
+IsoMap: 0.5049535975040154	cost_time: 0s
+IsoMap: 0.5214443872395573	cost_time: 0s
+IsoMap: 0.5279715978315004	cost_time: 0s
+lap_score: 0.5095005030997048	cost_time: 0s
+lap_score: 0.47840825587326774	cost_time: 0s
+lap_score: 0.4819621766059711	cost_time: 0s
+NDFS: 0.4332902516049654	cost_time: 2s
+
+
+160
+LE: 0.4943107711654465	cost_time: 0s
+LE: 0.5205293279994341	cost_time: 0s
+LE: 0.521877201586517	cost_time: 0s
+IsoMap: 0.5350040500236412	cost_time: 0s
+IsoMap: 0.5391029306358217	cost_time: 0s
+IsoMap: 0.5263482837728127	cost_time: 0s
+lap_score: 0.5089339702567967	cost_time: 0s
+lap_score: 0.4997903606422125	cost_time: 0s
+lap_score: 0.5095419620066742	cost_time: 0s
+NDFS: 0.4457241236424334	cost_time: 2s
+
+
+180
+LE: 0.5322042296450263	cost_time: 0s
+LE: 0.5175672781256312	cost_time: 0s
+LE: 0.5133005177263927	cost_time: 0s
+IsoMap: 0.5138416850846622	cost_time: 0s
+IsoMap: 0.5060550013572392	cost_time: 0s
+IsoMap: 0.5335109221669897	cost_time: 0s
+lap_score: 0.4904076807286911	cost_time: 0s
+lap_score: 0.4819229943624818	cost_time: 0s
+lap_score: 0.49252514242647055	cost_time: 0s
+NDFS: 0.44323472837459993	cost_time: 3s
+
+
+200
+LE: 0.48534077971541684	cost_time: 0s
+LE: 0.5179052633408447	cost_time: 0s
+LE: 0.5004919132463862	cost_time: 0s
+IsoMap: 0.49952562168278	cost_time: 1s
+IsoMap: 0.4979769727733956	cost_time: 0s
+IsoMap: 0.5041833566532852	cost_time: 1s
+lap_score: 0.5082347725524515	cost_time: 0s
+lap_score: 0.5003637320078382	cost_time: 0s
+lap_score: 0.49030610445881867	cost_time: 0s
+NDFS: 0.4606183454353525	cost_time: 2s
+
+
